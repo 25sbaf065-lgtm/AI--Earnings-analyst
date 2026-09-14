@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/data.ts","./src/main.tsx","./src/types.ts","./src/components/CapexChart.tsx","./src/components/EbitdaDonut.tsx","./src/components/ProgressRing.tsx","./src/components/RevenueGrowthChart.tsx","./src/components/SentimentGauge.tsx"],"version":"5.9.3"}
